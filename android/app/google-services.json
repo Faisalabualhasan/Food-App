@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "313007468472",
+    "project_id": "foodordering-clone-app",
+    "storage_bucket": "foodordering-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313007468472:android:978fdc688c41134783a94d",
+        "android_client_info": {
+          "package_name": "com.faisal.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313007468472-ke4fnlk91b7cftqbs7d0aari7ldqjnjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyK_C4qcf2-SXfWl74N6fhJ0N8NsVrSMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313007468472-ke4fnlk91b7cftqbs7d0aari7ldqjnjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313007468472-ijq4cn4bie2faqg8ujiqou45fjt6eoeu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodpandaSellersApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
