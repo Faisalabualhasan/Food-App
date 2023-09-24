@@ -1,4 +1,4 @@
-# foodpanda_sellers_app
+# sellers_app
 
 A new Flutter project.
 
